@@ -114,4 +114,3 @@ stepped:connect(function()
 	GunWeld.C0 = cf(0,0,-(camera.CoordinateFrame.lookVector.Y)/10)
 	
 end)
-
